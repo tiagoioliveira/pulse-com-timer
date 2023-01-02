@@ -1,19 +1,3 @@
-/* ======================================================================================================
-   
-   Curso de Arduino WR Kits Channel
-   
-   Aplicação para os Timers do Atmega328p (Arduino UNO, Duemilanove e outros)
-   
-    
-   Autor: Eng. Wagner Rambo  Data: Março de 2018
-    
-   
-   www.wrkits.com.br | facebook.com/wrkits | youtube.com/canalwrkits
-
-    
-====================================================================================================== */
-
-
 // ======================================================================================================
 // --- Mapeamento de Hardware ---
 #define   led   PB5
